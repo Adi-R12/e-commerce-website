@@ -1,6 +1,14 @@
 # Flone 
 Flone is an innovative single vendor ecommerce website that aims to address the challenges faced by local vendors during the COVID-19 pandemic. With lockdowns and restrictions in place, people may feel apprehensive about visiting physical stores, impacting the livelihood of local businesses. Flone serves as a secure and convenient platform that brings the local shopping experience to customers' fingertips, ensuring their safety while supporting local vendors
 
+# Screenshots:
+![page 1](https://i.postimg.cc/HLW9XRwR/Screenshot-236.png)
+![page 2](https://i.postimg.cc/rFS1bMg7/Screenshot-237.png)
+![page 3](https://i.postimg.cc/bwgQyg7T/Screenshot-238.png)
+![page 4](https://i.postimg.cc/wBBD7JHd/Screenshot-239.png)
+![page 5](https://i.postimg.cc/mr6CMD21/Screenshot-240.png)
+![page 6](https://i.postimg.cc/DZJscT8j/Screenshot-241.png)
+
 # Basic functionalities:
 1. Add to Cart: Flone allows customers to effortlessly add products to their virtual shopping cart, simplifying the selection process before checkout. The cart displays product details and totals, ensuring an easy review of the chosen items.
 
@@ -36,14 +44,6 @@ Flone is an innovative single vendor ecommerce website that aims to address the 
 7. To register as admin change the url to "localhost:3000/register" and from there you can manage product
 8. To open flone page for frontend close the stop adminpanel process and  use command "npm run start" inside frontend folder on vscode terminal.
 9. Ready to go!
-
-# Screenshots:
-![page 1](https://i.postimg.cc/HLW9XRwR/Screenshot-236.png)
-![page 2](https://i.postimg.cc/rFS1bMg7/Screenshot-237.png)
-![page 3](https://i.postimg.cc/bwgQyg7T/Screenshot-238.png)
-![page 4](https://i.postimg.cc/wBBD7JHd/Screenshot-239.png)
-![page 5](https://i.postimg.cc/mr6CMD21/Screenshot-240.png)
-![page 6](https://i.postimg.cc/DZJscT8j/Screenshot-241.png)
 
 # Team:
 - Aditya Kumar Rai
