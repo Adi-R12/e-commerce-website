@@ -46,11 +46,11 @@ Flone is an innovative single vendor ecommerce website that aims to address the 
 ![page 6](https://i.postimg.cc/DZJscT8j/Screenshot-241.png)
 
 # Team:
-- Naman Suhane
+- Aditya Kumar Rai
 - Arnav Agarwal
+- Naman Suhane
 - Harsh
 - Ashutosh Shah
 - Bharat Bhushan Sangh
-- Aditya Kumar Rai
 
 
